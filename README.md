@@ -128,3 +128,15 @@ Este análisis proporciona insights valiosos para mejorar la segmentación de cl
 3. Revisa las visualizaciones generadas para obtener las conclusiones clave.
 
 ---
+
+## Contacto
+
+
+- **Email:** [danielroblesaller@gmail.com](mailto:danielroblesaller@gmail.com)
+- **LinkedIn:** [Daniel Robles](https://www.linkedin.com/in/danielroblesaller)
+
+---
+
+**¡Gracias por visitar mi repositorio!**
+
+---
