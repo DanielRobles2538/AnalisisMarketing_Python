@@ -78,7 +78,7 @@ La limpieza y transformación de los datos se llevó a cabo en Python utilizando
     
 ---
 
-## **Análisis Exploratorio y Visualización**
+## **Análisis Exploratorio**
 
 Las preguntas clave que se abordaron en este análisis incluyen:
 
@@ -96,7 +96,8 @@ Se utilizaron gráficos de barras, gráficos de líneas, diagramas de dispersió
 
 - **Histogramas**: Para analizar la distribución de variables como edad, ingresos y duración de las llamadas.
 - **Gráficos de Líneas**: Para observar tendencias a lo largo del tiempo en la duración de las campañas y la respuesta de los clientes.
-- **Diagramas de Dispersión**: Para explorar la relación entre diversas características de los clientes, como la ocupación y el nivel educativo.
+- **Diagramas de Dispersión**: Para explorar la relación entre diversas características de los clientes, como la duración de las llamadas y la cantidad de contactos con el cliente.
+- **Gráficos Circulares**: Para mostrar la tasa de convwersión de la campaña actual y la campaña anterior.
 
 ---
 
@@ -117,6 +118,8 @@ Este análisis proporciona insights valiosos para mejorar la segmentación de cl
 │
 ├── notebooks
 │   └── EDA_bank.ipynb
+│
+├── Informe_Final.pdf
 │
 └── README.md
 ```
