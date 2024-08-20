@@ -1,6 +1,8 @@
 ---
 
-# **Análisis de Datos de Campañas de Marketing Telefónico**
+# **EDA y Análisis: Campaña de Marketing Telefónico Entidad Bancaria**
+
+---
 
 ## **Propósito del Proyecto**
 
