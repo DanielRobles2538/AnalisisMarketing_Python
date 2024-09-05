@@ -65,7 +65,7 @@ La limpieza y transformación de los datos se llevó a cabo en Python utilizando
 
 - [**pandas**](https://pandas.pydata.org/): Para la manipulación y análisis de datos estructurados.
 - [**numpy**](https://numpy.org/): Para operaciones matemáticas y manejo de matrices.
-- [**scikit-learn**](https://scikit-learn.org/stable/): Para la imputación de valores nulos y técnicas avanzadas de preprocesamiento:
+- [**sklearn**](https://scikit-learn.org/stable/): Para la imputación de valores nulos y técnicas avanzadas de preprocesamiento:
   - [**SimpleImputer**](https://scikit-learn.org/stable/modules/generated/sklearn.impute.SimpleImputer.html)
   - [**IterativeImputer**](https://scikit-learn.org/stable/modules/generated/sklearn.impute.IterativeImputer.html)
   - [**KNNImputer**](https://scikit-learn.org/stable/modules/generated/sklearn.impute.KNNImputer.html)
