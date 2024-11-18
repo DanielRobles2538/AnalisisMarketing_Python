@@ -1,7 +1,7 @@
 ---
 
-#🐍 **EDA y Análisis: Campaña de Marketing Telefónico Entidad Bancaria**
-
+# **EDA y Análisis: Campaña de Marketing Telefónico Entidad Bancaria**
+### **Autor: Daniel Robles Aller**
 ---
 
 ## **Propósito del Proyecto**
