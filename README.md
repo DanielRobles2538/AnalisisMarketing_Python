@@ -1,7 +1,7 @@
 ---
 
 # **EDA y Análisis: Campaña de Marketing Telefónico Entidad Bancaria**
-### **Autor: Daniel Robles Aller**
+### **Autor:** [Daniel Robles Aller](www.linkedin.com/in/danielroblesaller) 
 ---
 
 ## **Propósito del Proyecto**
@@ -16,7 +16,7 @@ El análisis se basa en dos conjuntos de datos:
 
 ### 1. **bank-additional.csv**
 
-Este dataset contiene información sobre campañas de marketing telefónico realizadas por una entidad bancaria portuguesa. Las campañas incluían múltiples llamadas a los mismos clientes para intentar lograr la contratación de un producto bancario.
+Este dataset contiene información sobre campañas de marketing telefónico realizadas por una entidad bancaria. Las campañas incluían múltiples llamadas a los mismos clientes para intentar lograr la contratación de un producto bancario.
 
 #### **Columnas Principales:**
 
